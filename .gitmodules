@@ -1,0 +1,3 @@
+[submodule "angular2-tour-of-heroes"]
+	path = angular2-tour-of-heroes
+	url = https://github.com/codefoster/angular2-tour-of-heroes.git
