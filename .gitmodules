@@ -1,3 +1,6 @@
 [submodule "angular2-tour-of-heroes"]
 	path = angular2-tour-of-heroes
 	url = https://github.com/codefoster/angular2-tour-of-heroes.git
+[submodule "f360-bumpmap"]
+	path = f360-bumpmap
+	url = https://github.com/codefoster/f360-bumpmap.git
